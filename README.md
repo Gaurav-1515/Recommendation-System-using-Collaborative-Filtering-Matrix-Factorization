@@ -99,3 +99,4 @@ FunkSVD Test RMSE: 0.92
 * Deploy as a REST API or Web App.
 
 # OUTPUT
+<img width="1859" height="1063" alt="Image" src="https://github.com/user-attachments/assets/afbf06e4-ff9a-4ca6-abf4-863ffbf13d71" />
