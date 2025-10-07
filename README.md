@@ -1,4 +1,16 @@
 # 📌 Recommendation System using Collaborative Filtering & Matrix Factorization
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : GAURAV PANDEY
+
+INTERN ID : CT04DY1426
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 ## 📖 Project Overview
 
 This project implements a **Recommendation System** from scratch using two popular techniques:
